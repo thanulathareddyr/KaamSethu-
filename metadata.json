@@ -1,0 +1,6 @@
+{
+  "name": "wHACKiest 2026 Pitch Deck Studio",
+  "description": "Hackathon ideathon pitch deck, PowerPoint (.pptx) exporter, YouTube pitch script, and 24-hour MVP roadmap for wHACKiest 2026 Track 4 (UnlockED).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
